@@ -14,4 +14,4 @@ https://portfolio-by-akash-2.netlify.app/
 - script.js
 
 ## 👨‍💻 Author
-Akash Pawar
+Akash Pawar .
